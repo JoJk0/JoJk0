@@ -4,7 +4,9 @@ I'm Jacob Janisz - an adopted Mancunian, coffee lover, cyclist and traveller
 
 ## Find me on
 
-![Twitter](https://api.iconify.design/akar-icons/twitter-fill.svg?color=white) @JJanisz
+![BlueSky](https://api.iconify.design/tabler/brand-bluesky.svg?color=white) @jojko.bsky.social
+
+![BlueSky](https://api.iconify.design/akar-icons/mastodon-fill.svg?color=white) @jojko@101010.pl
 
 ![IG](https://api.iconify.design/akar-icons/instagram-fill.svg?color=white) @jojk0
 
